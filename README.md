@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tentacion-sutil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Tentación sutil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-sutil/) |
+| **Get License** | [Obtain a Music License for Tentación sutil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tentacion-sutil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You look at me and time is standing still tonight
+> A subtle temptation, baby, catching the light
+> I feel the fire whenever you are close to me
+> Let us get lost inside this midnight energy
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
