@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tentación sutil
+
+This log tracks the cryptographic history and versioning for the song **Tentación sutil** (tentacion-sutil).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:18:29.932930 | `v1` | `14ca39495b739cda8045dde745880213e6d803a1f5116d65296e084cd3865c49` | `3a46d4a60fb275221d6c569dbb5bc0d791c0a892ed670d762732f9c82c8535d9` | `2026-06-15_tentacion-sutil-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
